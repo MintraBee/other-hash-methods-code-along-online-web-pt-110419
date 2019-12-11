@@ -18,9 +18,5 @@ def get_the_min(groceries)
 }
 
 
-groceries.keys 
-
-groceries.values 
-
-groceries.values.flattenode your solution here!
+groceries.values.flatten.min 
 end
