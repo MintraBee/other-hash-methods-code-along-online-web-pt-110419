@@ -18,9 +18,8 @@ def get_the_values(groceries)
 }
 
 
-groceries.keys 
-
 groceries.values 
 
 groceries.values.flatten
+
 end
